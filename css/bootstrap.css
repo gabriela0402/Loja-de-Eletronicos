@@ -12054,4 +12054,21 @@ textarea.form-control-lg {
   }
 }
 
+body{
+  background-color: #490000;
+}
+
+p, h1, h2{
+  color: rgb(255, 255, 255);
+  border-radius: 10px;
+}
+ footer{
+  height: 100px;
+  padding: 20px;
+ }
+
+form{
+  padding: 50px;
+  border-radius: 10px;
+}
 /*# sourceMappingURL=bootstrap.css.map */
